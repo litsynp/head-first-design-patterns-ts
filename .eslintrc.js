@@ -41,5 +41,7 @@ module.exports = {
         'newlines-between': 'always',
       },
     ],
+    'no-unused-vars': 'off',
+    '@typescript-eslint/no-unused-vars': ['error'],
   },
 }
