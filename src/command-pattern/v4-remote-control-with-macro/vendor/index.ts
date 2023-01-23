@@ -1,0 +1,6 @@
+export * from './ceiling-fan'
+export * from './garage-door'
+export * from './hottub'
+export * from './light'
+export * from './stereo'
+export * from './tv'
